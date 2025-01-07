@@ -1,0 +1,16 @@
+{
+  "name": "cropinsight_storage_account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node image_upload.jsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/storage-blob": "^12.26.0",
+    "dotenv": "^16.4.7"
+  }
+}
